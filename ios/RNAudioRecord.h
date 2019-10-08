@@ -1,5 +1,5 @@
 #import <AVFoundation/AVFoundation.h>
-#import <React/RCTEventEmitter.h>
+#import "RCTEventEmitter.h"
 #import <React/RCTLog.h>
 
 #define kNumberBuffers 3
